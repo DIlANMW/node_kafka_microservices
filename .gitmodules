@@ -1,0 +1,6 @@
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/DIlANMW/notification-service.git
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/DIlANMW/order_service.git
